@@ -15,3 +15,5 @@ Run linker
 ```bash
 golink /entry:main /console app.obj kernel32.dll
 ```
+
+And you can run .exe file on your directory
