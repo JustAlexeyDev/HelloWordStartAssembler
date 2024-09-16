@@ -7,7 +7,7 @@ install NASM, golink
 https://www.nasm.us/
 http://www.godevtool.com/#64
 
-Run conpiler
+Run compiler
 ```bash
 nasm -f win32 app.asm -o app.obj
 ```
